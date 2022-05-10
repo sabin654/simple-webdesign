@@ -213,23 +213,25 @@ footer{
 .h-primary{
     font-family: 'Bree Serif', serif;
     font-size:3.4rem;
-padding: 15px;
+padding: 39px;
+margin-top: 25px;
+
+
 
 
     
 }
-.h1-primary{
+.h1-primary {
    
     font-family: 'Bree Serif', serif;
     font-size: 3.4rem;
-    padding: 14px 32px;
-    margin: -23px -8px;
+    padding: 12px;
+    margin-top: -31px;
+
     
-
-
-
     
 }
+
 .h-secondary{
     font-family: 'Bree Serif', serif;
     font-size:2rem;
@@ -263,7 +265,7 @@ padding: 15px;
     font-family: 'Bree Serif', serif;
     font-size: 3rem;
     padding: 65px 21px;
-    margin: -4px -8px;
+    margin: 24px -8px;
     color: rgb(80, 75, 75);
     
 
